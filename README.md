@@ -1,2 +1,2 @@
-# lisp_exercises
-Lisp exercises
+# Description
+Lisp exercises for college assignment.
